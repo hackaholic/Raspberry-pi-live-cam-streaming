@@ -1,3 +1,5 @@
+Watch this video for setup: https://www.youtube.com/watch?v=tKkcB_KQI2Y
+
 dependencies 
 
 sudo apt-get install libjpeg8-dev subversion imagemagick
